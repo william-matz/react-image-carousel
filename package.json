@@ -1,0 +1,20 @@
+{
+  "name": "@joinhelm/react-image-carousel",
+  "version": "1.0.0",
+  "description": "This is a simple to use image carousel with previews and autoplay options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "react",
+    "image",
+    "carousel"
+  ],
+  "author": "Will Matz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/william-matz/react-image-carousel.git"
+  }
+}
