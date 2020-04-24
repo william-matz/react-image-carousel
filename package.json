@@ -1,6 +1,6 @@
 {
   "name": "@joinhelm/react-image-carousel",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a simple to use image carousel with previews and autoplay options.",
   "main": "index.js",
   "scripts": {
