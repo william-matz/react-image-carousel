@@ -1,0 +1,4 @@
+node_modules
+.np-config.js
+.DS_Store
+.env

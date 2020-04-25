@@ -2,7 +2,7 @@
   "name": "@joinhelm/react-image-carousel",
   "version": "1.0.4",
   "description": "This is a simple to use image carousel with previews and autoplay options.",
-  "main": "index.js",
+  "main": "src/Carousel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
@@ -16,5 +16,16 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/william-matz/react-image-carousel.git"
+  },
+  "files": [
+    "LICENCE",
+    "package.json",
+    "README.md",
+    "/src/*"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-transition-group": "^4.3.0"
   }
 }
